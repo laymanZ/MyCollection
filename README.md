@@ -26,7 +26,9 @@
 
 1、giantray/stackoverflow-java-top-qa: stackoverflow上Java相关回答整理翻译 
 https://github.com/giantray/stackoverflow-java-top-qa
+
 2、Vedenin/useful-java-links: A list of useful Java frameworks, libraries, software and hello worlds examples  https://github.com/Vedenin/useful-java-links
+
 3、iluwatar/java-design-patterns: Design patterns implemented in Java  https://github.com/iluwatar/java-design-patterns
 
 #### b、C++
@@ -34,6 +36,7 @@ https://github.com/giantray/stackoverflow-java-top-qa
 #### c、RxJava
 
 1、VictorAlbertos/RxCache: Reactive caching library for Android and Java  https://github.com/VictorAlbertos/RxCache
+
 2、Zweihui/RxFingerPrinter: 用rxjava简单封装了指纹识别，顺便撸了一个指纹控件  https://github.com/Zweihui/RxFingerPrinter
 
 
@@ -43,6 +46,7 @@ https://github.com/giantray/stackoverflow-java-top-qa
 #### a、Android
 
 1、klinker24/Android-3DTouch-PeekView: Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android.  https://github.com/klinker24/Android-3DTouch-PeekView
+
 2、mcxtzhang/AnimShopButton: A shopping cart button with a telescopic displacement rotation animation ...一个带伸缩位移旋转动画的购物车按钮  https://github.com/mcxtzhang/AnimShopButton
 
 
