@@ -1,8 +1,8 @@
 ## 整理在github上或者其他地方收集的一些自己觉得有用的链接
 ## Organize some of the links you find useful on github or elsewhere
 
-### 整理内容比较多，不定时更新，包括 android、react-native、前端、php、python、java、c/c++、linux、面试、文章、各种协议、库、插件 等等
-### The contents of the collation are more irregular from time to time, including android, react-native, front-end, php, python, java, c / c ++, linux, interviews, articles, protocols, libraries, plug-ins and so on
+### 整理内容比较多，不定时更新，包括 android、react-native、前端、php、python、java、c/c++、linux、面试、文章、各种协议、库、插件、设计模式 等等
+### The contents of the collation are more irregular from time to time, including android, react-native, front-end, php, python, java, c / c ++, linux, interviews, articles, protocols, libraries, plug-ins,Design Patterns and so on
 
 ### 1、项目 (project)
 #### a、Android
@@ -303,7 +303,7 @@ GitHub - ozodrukh/CircularReveal: Lollipop ViewAnimationUtils.createCircularReve
 
 GitHub - XunMengWinter/CircularAnim: Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)  https://github.com/XunMengWinter/CircularAnim
 
-
+GitHub - airbnb/lottie-android: Render After Effects animations natively on Android and iOS  https://github.com/airbnb/lottie-android
 
 
 
