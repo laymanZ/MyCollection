@@ -58,6 +58,10 @@ GitHub - pangzaifei/zfIMDemo: android聊天的demo，包含了主流的功能。
 
 GitHub - AndroidBaseInfo/QHuanXinIMDemo: 基于环信的IM的demo  https://github.com/AndroidBaseInfo/QHuanXinIMDemo
 
+GitHub - Freelander/Elephant: Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit .（大象是PHPHub社区Android非官方的客户端，基于Material Design + MVP + RxJava + Retrofit）  https://github.com/Freelander/Elephant
+
+GitHub - JZ-Darkal/AndroidHttpCapture: AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~  https://github.com/JZ-Darkal/AndroidHttpCapture
+
 
 
 #### b、PHP
@@ -231,6 +235,10 @@ GitHub - qyxxjd/MultipleStatusView: 一个支持多种状态的自定义View,可
 
 GitHub - luminousman/MultipleImagePick: Smart android gallery with multiple image selection action.(智能android画廊与多个图像选择行动。)  https://github.com/luminousman/MultipleImagePick
 
+GitHub - zaaach/CityPicker: a nice city picker library like meituan app for Android(一个很好的城市选择库如meituan的应用程序的Android)  https://github.com/zaaach/CityPicker
+
+GitHub - jeasonlzy/ImagePicker: 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数  https://github.com/jeasonlzy/ImagePicker
+
 
 
 ### 4、Linux
@@ -329,6 +337,8 @@ GitHub - Trinea/android-open-project: Collect and classify android open source p
 https://github.com/Trinea/android-open-project
 
 GitHub - zhujun2730/Android-Learning-Resources: Android学习资源网站索引大全  https://github.com/zhujun2730/Android-Learning-Resources
+
+GitHub - LittleFriendsGroup/AndroidSdkSourceAnalysis: android sdk 源码解析——旨在帮助Android开发者更好的学习Android！  https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis
 
 
 
