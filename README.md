@@ -81,13 +81,48 @@ GitHub - alexjlockwood/adp-activity-transitions: This sample app accompanies a s
 
 GitHub - huijimuhe/Luban-Circle-Demo: 仿朋友圈按顺序上传图片至七牛，基于luban算法压缩  https://github.com/huijimuhe/Luban-Circle-Demo
 
+GitHub - chrisbanes/cheesesquare: Demos the new Android Design library(演示新的Android设计库).  https://github.com/chrisbanes/cheesesquare
+
+GitHub - HuTianQi/CoolWeather: 本人完全自主设计与开发的一款轻量级简约好用的天气App，无广告，无烦人的通知栏，定位精准，天气信息数据准确，还支持更换背景皮肤哦，颜值爆表  https://github.com/HuTianQi/CoolWeather
+
+GitHub - baikingrio/oauth_china_android: 实现了Android平台上的新浪微博，腾讯微博，QQ，豆瓣，人人等平台的OAuth2验证  https://github.com/baikingrio/oauth_china_android
+
+GitHub - sungerk/meiShi: The project is currently undergoing maintenance and upgrade, if you want to run this project please download release  https://github.com/sungerk/meiShi
+
+GitHub - CharonChui/CyberLink4Android: CyberLink for Android is a development package for UPnP™ developers on Android development. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.The file on www.cybergarage.org for Android can only realize the find and browse function, so I combine the Cyberlink4Java and the jar for Android make this Cyberlink for Android.(CyberLink for Android是UPnP™开发人员在Android开发中的开发包。 讯连科技自动控制这些协议，并支持快速创建设备和控制点。www.cybergarage.org上的文件只能实现查找和浏览功能，所以我结合Cyberlink4Java和Android的jar使这个Cyberlink Android) http://www.cybergarage.org/twiki/bin/view/Main/CyberLinkForJava  https://github.com/CharonChui/CyberLink4Android
+
+GitHub - JustWayward/BookReader: "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、字体/主题/亮度设置、Wifi传书等功能！  https://github.com/JustWayward/BookReader
+
+GitHub - antoniolg/androidmvp: MVP Android Example  https://github.com/antoniolg/androidmvp
+
+GitHub - 80945540/FreeBook: 基于MVP模式开发的带缓存网络爬虫,采用最流行框架搭建,干货多多  https://github.com/80945540/FreeBook
+
+GitHub - supercwn/SuperPlayer: SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换  https://github.com/supercwn/SuperPlayer
+
+GitHub - LineChen/SpannableStringDemo: 使用SpannableString实现类似新浪微博、QQ空间等帖子显示  https://github.com/LineChen/SpannableStringDemo
+
+GitHub - joniks/Android-MuPDF: MuPDF usage for magazine reading（MuPDF用于杂志阅读）https://github.com/joniks/Android-MuPDF
+
+GitHub - youxin11544/MVP-RxJava-Hybride: This is an Android MVP model good architecture design，Which also inherited the Android architecture and HTML 5 interaction。（这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式）  https://github.com/youxin11544/MVP-RxJava-Hybride
+
+GitHub - ximencx/XMVideo: material design风格UI,人人美剧接口,rxjava,retrofit  https://github.com/ximencx/XMVideo
+
+GitHub - googlesamples/android-architecture: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.(一组示例，用于讨论和展示Android应用程序的不同架构工具和模式。)  https://github.com/googlesamples/android-architecture
+
 
 
 #### b、PHP
 
+GitHub - peterpang55/phalcon-wechat: phalcon 微信接口实现  https://github.com/peterpang55/phalcon-wechat
+
+
+
 #### c、python
 
 GitHub - XX-net/XX-Net: a web proxy tool  https://github.com/XX-net/XX-Net
+
+
+
 
 #### d、C/C++
 
@@ -100,6 +135,10 @@ GitHub - google/protobuf: Protocol Buffers - Google's data interchange format(�
 GitHub - begeekmyfriend/yasea: RTMP streaming client for Android(RTMP流媒体客户端Android)https://github.com/begeekmyfriend/yasea
 
 GitHub - liyuming1978/NativeLibCompression: The native library compression sdk is given to solve the apk size problem. It is easy to integrate and will get max 50% size decreasing. Not only sdk, a Java tool for package is provided to convert normal apk to compressed apk. MIT Licence, you can use any where (本地库压缩sdk是为了解决apk大小问题。 它易于集成，并将获得最大50％的尺寸减少。 不仅提供了sdk，一个Java工具包提供转换普通apk到压缩apk。 MIT许可证，可以使用任何地方) https://github.com/liyuming1978/NativeLibCompression
+
+GitHub - GavinCT/AndroidMP3Recorder: 为Android提供MP3录音功能[RETIRED]  https://github.com/GavinCT/AndroidMP3Recorder
+
+
 
 #### e、React-Native
 
@@ -116,6 +155,8 @@ GitHub - zhongjie-chen/rn_rank: 干货分享app  https://github.com/zhongjie-che
 GitHub - google/material-design-icons: Material Design icons by Google(Google的Material Design图标)  https://github.com/google/material-design-icons
 
 GitHub - lypeer/wechat-weapp-gank  https://github.com/lypeer/wechat-weapp-gank
+
+GitHub - activetheory/Paper-Planes-Android-Experiment  https://github.com/activetheory/Paper-Planes-Android-Experiment
 
 ### 2、语言 (Language)
 
@@ -303,7 +344,37 @@ GitHub - ozodrukh/CircularReveal: Lollipop ViewAnimationUtils.createCircularReve
 
 GitHub - XunMengWinter/CircularAnim: Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)  https://github.com/XunMengWinter/CircularAnim
 
-GitHub - airbnb/lottie-android: Render After Effects animations natively on Android and iOS  https://github.com/airbnb/lottie-android
+GitHub - airbnb/lottie-android: Render After Effects animations natively on Android and iOS(在Android和iOS上本机渲染After Effects动画,Airbnb 开源一个项目 Lottie,酷炫多种动画)https://github.com/airbnb/lottie-android
+
+GitHub - wzgiceman/TransitionsDemo: Android转场动画框架使用demo  https://github.com/wzgiceman/TransitionsDemo
+
+GitHub - andkulikov/Transitions-Everywhere: Backport of Android Transitions API for animations. Animations backported to Android 4.0+. API compatible with Android 2.2+(动画的Android转换API的Backport。 动画反馈到Android 4.0及更高版本。 API与Android 2.2+兼容)  https://github.com/andkulikov/Transitions-Everywhere
+
+GitHub - Alex-Cin/BossAnim: 仿boss直聘，查看用户头像  https://github.com/Alex-Cin/BossAnim
+
+GitHub - youngkaaa/RecyclerAnimations: Recycler's Animations，when items slide in!(回收器的动画，当项目滑入！)  https://github.com/youngkaaa/RecyclerAnimations
+
+GitHub - danielzeller/Depth-LIB-Android-: A library that gives depth to Views.(一个为Views提供深度的库。)  https://github.com/danielzeller/Depth-LIB-Android-
+
+GitHub - crazyandcoder/citypicker: citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动  https://github.com/crazyandcoder/citypicker
+
+GitHub - armcha/AutoLinkTextView: AutoLinkTextView is TextView that supports Hashtags (#), Mentions (@) , URLs (http://), Phone and Email automatically detecting and ability to handle clicks.(AutoLinkTextView是支持Hashtags（＃），提及（@），URL（http：//），电话和电子邮件自动检测和处理点击的能力的TextView。)  https://github.com/armcha/AutoLinkTextView
+
+GitHub - LineChen/FlickerProgressBar: Android 仿应用宝下载进度条  https://github.com/LineChen/FlickerProgressBar
+
+GitHub - Hitomis/SpinMenu: 轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment  https://github.com/Hitomis/SpinMenu
+
+GitHub - JeasonWong/QingtingBannerView: 仿蜻蜓FM轮播banner  https://github.com/JeasonWong/QingtingBannerView
+
+GitHub - zhangke3016/GeneratePicture: Select the page content generated picture.仿简书选取页面内容生成分享图片。  https://github.com/zhangke3016/GeneratePicture
+
+GitHub - saiwu-bigkoo/Android-PickerView: 仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果  https://github.com/saiwu-bigkoo/Android-PickerView
+
+GitHub - qibin0506/CardLayoutManager: RecyclerView自定义LayoutManager  https://github.com/qibin0506/CardLayoutManager
+
+GitHub - luckyandyzhang/MentionEditText: MentionEditText adds some useful features for mention string(@xxxx), such as highlight, intelligent deletion, intelligent selection and '@' input detection, etc. (MentionEditText添加了一些有用的功能提到字符串（@xxxx），如突出显示，智能删除，智能选择和'@'输入检测等。) https://github.com/luckyandyzhang/MentionEditText
+
+
 
 
 
@@ -345,15 +416,19 @@ Blankj/AndroidUtilCode: Android developers should collect the following utils(up
 
 shaohui10086/ShareUtil: 社会化登录分享工具库  https://github.com/shaohui10086/ShareUtil
 
+GitHub - baikingrio/android-openshare: android 一键分享到新浪微博，腾讯微博，人人网，QQ空间，微信好友圈  https://github.com/baikingrio/android-openshare
+
 
 
 ### 8、设计模式 (Design Patterns)
 
 iluwatar/java-design-patterns: Design patterns implemented in Java(iluwatar / java-design-patterns：在Java中实现的设计模式)  https://github.com/iluwatar/java-design-patterns
 
+
 ### 9、协议 (protocol)
 
 material-foundation/material-remixer: A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.(material-foundation / material-remixer：一组跨平台库和协议，允许在开发过程中共享设计值和实时改进应用程序。)  https://github.com/material-foundation/material-remixer
+
 
 ### 10、框架
 
@@ -393,6 +468,22 @@ GitHub - zaaach/CityPicker: a nice city picker library like meituan app for Andr
 
 GitHub - inloop/svg2android: SVG to Android VectorDrawable XML resource file(SVG到Android的VectorDrawable XML资源文件)  https://github.com/inloop/svg2android
 
+GitHub - Curzibn/Luban: Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法  https://github.com/Curzibn/Luban
+
+GitHub - markushi/android-ui: Android UI library.  https://github.com/markushi/android-ui
+
+GitHub - lidong1665/AndroidRapidLibrary: Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等  https://github.com/lidong1665/AndroidRapidLibrary
+
+GitHub - dodola/RocooFix: another hotfix framework  https://github.com/dodola/RocooFix
+
+GitHub - jdamcd/android-crop: Android library project for cropping images (用于裁剪图像的Android库项目) https://github.com/jdamcd/android-crop
+
+GitHub - crazycodeboy/TakePhoto: 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库  https://github.com/crazycodeboy/TakePhoto
+
+GitHub - google/ExoPlayer: An extensible media player for Android(Android的可扩展媒体播放器)  https://github.com/google/ExoPlayer
+
+GitHub - Bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.(Android / iOS视频播放器基于FFmpeg n3.2，支持MediaCodec，VideoToolbox。)  https://github.com/Bilibili/ijkplayer
+
 
 
 ### 11、公众号、文章推送
@@ -415,5 +506,23 @@ GitHub - LittleFriendsGroup/AndroidSdkSourceAnalysis: android sdk 源码解析�
 GitHub - mcxiaoke/RxDocs: Rx和RxJava文档中文翻译项目  https://github.com/mcxiaoke/RxDocs
 
 GitHub - lizhangqu/CoreLink: Android 开发中的日常积累  https://github.com/lizhangqu/CoreLink
+
+GitHub - nibnait/algorithms: 《算法 (第4版)》、牛课堂、《剑指Offer》、  https://github.com/nibnait/algorithms
+
+GitHub - CameloeAnthony/AndroidArchitectureCollection: 安卓架构文章合集（a collection of android Architecture）  https://github.com/CameloeAnthony/AndroidArchitectureCollection
+
+GitHub - xitu/gold-miner: 掘金翻译计划，翻译掘金上优质的英文文章  https://github.com/xitu/gold-miner
+
+GitHub - wasabeef/awesome-android-libraries: This is an alphabetical list of libraries for Android development, the majority being actively maintained.(这是一个按字母顺序排列的库列表，用于Android开发，大多数被积极维护。)  https://github.com/wasabeef/awesome-android-libraries
+
+GitHub - ZQiang94/Andriod-collect-blogs  https://github.com/ZQiang94/Andriod-collect-blogs
+
+GitHub - jobbole/awesome-android-cn: Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。  https://github.com/jobbole/awesome-android-cn
+
+GitHub - jobbole/awesome-java-cn: Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。  https://github.com/jobbole/awesome-java-cn
+
+GitHub - jobbole/awesome-c-cn: C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。  https://github.com/jobbole/awesome-c-cn
+
+GitHub - googlesamples/android-architecture: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.(一组示例，用于讨论和展示Android应用程序的不同架构工具和模式。)  https://github.com/googlesamples/android-architecture
 
 
