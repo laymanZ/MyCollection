@@ -6,11 +6,11 @@
 
 marktony/PaperPlane: 纸飞机-采用MVP架构，集合了知乎日报、果壳精选和豆瓣一刻的综合性阅读客户端 Paper Plane - A reading app based on Android which contains articles from Zhihu Daily, Guokr Handpick and Douban Moment.  https://github.com/marktony/PaperPlane
 
-pedrovgs/EffectiveAndroidUI: Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".  https://github.com/pedrovgs/EffectiveAndroidUI
+pedrovgs/EffectiveAndroidUI: Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".(pedrovgs / EffectiveAndroidUI：创建的示例项目，以显示一些最好的Android实践在Android UI图层中工作。 这个项目的UI层已经使用MVP或MVVM（没有绑定引擎）来实现，以显示这个模式如何工作。 这个项目在谈话“EffectiveAndroidUI”期间使用。)  https://github.com/pedrovgs/EffectiveAndroidUI
 
 SuperMan42/MVP: App based on Material Design + MVP + Rxjava + Retrofit + Okhttp + RecyclerView + Glide + cache + theme + others + 全民直播  https://github.com/SuperMan42/MVP
 
-amitshekhariitbhu/RxJava2-Android-Samples: RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android  https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+amitshekhariitbhu/RxJava2-Android-Samples: RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android(amitshekhariitbhu / RxJava2-Android-Samples：RxJava 2 Android示例 - 从RxJava 1迁移到RxJava 2 - 如何在Android中使用RxJava 2)  https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
 
 
 
@@ -99,7 +99,10 @@ gongwen/MarqueeViewLibrary: 一个帮您快速实现跑马灯效果的library  h
 ### 5、面试 (Interview)
 
 ### 6、插件 (Plugin)
-GitHub - chenzhuo914/google-cn-devsites-extension: A chrome extension for Google devsites in mainland China  https://github.com/chenzhuo914/google-cn-devsites-extension
+
+GitHub - chenzhuo914/google-cn-devsites-extension: A chrome extension for Google devsites in mainland China(GitHub - chenzhuo914 / google-cn-devsites-extension：Google中国大陆地区的Chrome扩充功能)  https://github.com/chenzhuo914/google-cn-devsites-extension
+
+{OpenGrok by OpenGrok  http://opengrok.github.io/OpenGrok/
 
 ### 7、工具类 (AuxiliaryTools  Util)
 
@@ -107,17 +110,17 @@ Blankj/AndroidUtilCode: Android developers should collect the following utils(up
 
 ### 8、设计模式 (Design Patterns)
 
-iluwatar/java-design-patterns: Design patterns implemented in Java  https://github.com/iluwatar/java-design-patterns
+iluwatar/java-design-patterns: Design patterns implemented in Java(iluwatar / java-design-patterns：在Java中实现的设计模式)  https://github.com/iluwatar/java-design-patterns
 
 ### 9、协议 (protocol)
 
-material-foundation/material-remixer: A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.  https://github.com/material-foundation/material-remixer
+material-foundation/material-remixer: A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.(material-foundation / material-remixer：一组跨平台库和协议，允许在开发过程中共享设计值和实时改进应用程序。)  https://github.com/material-foundation/material-remixer
 
 ### 10、框架
 
 chenenyu/Router: 🚀🚀🚀 优雅的组件化路由框架.  https://github.com/chenenyu/Router
 
-
+hpdx/DanmukuLight: Android上专为视频直播打造的轻量级弹幕库（100多kb）  https://github.com/hpdx/DanmukuLight
 
 ### 11、公众号推送
 
