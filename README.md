@@ -1,6 +1,9 @@
 ## 整理在github上或者其他地方收集的一些自己觉得有用的链接
 ## Organize some of the links you find useful on github or elsewhere
 
+### 整理内容比较多，不定时更新，包括 android、react-native、前端、php、python、java、c/c++、linux、面试、文章、各种协议、库、插件 等等
+### The contents of the collation are more irregular from time to time, including android, react-native, front-end, php, python, java, c / c ++, linux, interviews, articles, protocols, libraries, plug-ins and so on
+
 ### 1、项目 (project)
 #### a、Android
 
@@ -62,6 +65,22 @@ GitHub - Freelander/Elephant: Elephant is PHPHub Community Android unofficial cl
 
 GitHub - JZ-Darkal/AndroidHttpCapture: AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~  https://github.com/JZ-Darkal/AndroidHttpCapture
 
+GitHub - qq137712630/MeiZiNews: 有妹子的阅读app  https://github.com/qq137712630/MeiZiNews
+
+GitHub - chaohuangtianjie994/BlueTooth-AutoPair: This is a Demo about the autopair of bluetooth  https://github.com/chaohuangtianjie994/BlueTooth-AutoPair
+
+GitHub - hejunlin2013/TVSample: 1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页  https://github.com/hejunlin2013/TVSample
+
+GitHub - ryanhoo/StylishMusicPlayer: A stylish music player for android device 16+(一个时尚的音乐播放器Android设备16+)  https://github.com/ryanhoo/StylishMusicPlayer
+
+GitHub - android-cjj/BiliClient: bb  https://github.com/android-cjj/BiliClient
+
+GitHub - leeowenowen/rxjava-examples: 全面，完整，图文并茂的RxJavaAPI使用示例。  https://github.com/leeowenowen/rxjava-examples
+
+GitHub - alexjlockwood/adp-activity-transitions: This sample app accompanies a series of blog posts I wrote on transitions in Android.  https://github.com/alexjlockwood/adp-activity-transitions
+
+GitHub - huijimuhe/Luban-Circle-Demo: 仿朋友圈按顺序上传图片至七牛，基于luban算法压缩  https://github.com/huijimuhe/Luban-Circle-Demo
+
 
 
 #### b、PHP
@@ -80,10 +99,13 @@ GitHub - google/protobuf: Protocol Buffers - Google's data interchange format(�
 
 GitHub - begeekmyfriend/yasea: RTMP streaming client for Android(RTMP流媒体客户端Android)https://github.com/begeekmyfriend/yasea
 
-
+GitHub - liyuming1978/NativeLibCompression: The native library compression sdk is given to solve the apk size problem. It is easy to integrate and will get max 50% size decreasing. Not only sdk, a Java tool for package is provided to convert normal apk to compressed apk. MIT Licence, you can use any where (本地库压缩sdk是为了解决apk大小问题。 它易于集成，并将获得最大50％的尺寸减少。 不仅提供了sdk，一个Java工具包提供转换普通apk到压缩apk。 MIT许可证，可以使用任何地方) https://github.com/liyuming1978/NativeLibCompression
 
 #### e、React-Native
+
 EleTeam/Shop-React-Native: EleTeam开源项目 - 电商全套解决方案之 React Native 版 - Shop-React-Native。一个类似京东/天猫/淘宝的商城，有对应的服务端支持，由EleTeam团队维护！  https://github.com/EleTeam/Shop-React-Native
+
+GitHub - wutongke/react-native-one: simple app use react-native  https://github.com/wutongke/react-native-one
 
 #### f、Java
 
@@ -92,6 +114,8 @@ EleTeam/Shop-React-Native: EleTeam开源项目 - 电商全套解决方案之 Rea
 GitHub - zhongjie-chen/rn_rank: 干货分享app  https://github.com/zhongjie-chen/rn_rank
 
 GitHub - google/material-design-icons: Material Design icons by Google(Google的Material Design图标)  https://github.com/google/material-design-icons
+
+GitHub - lypeer/wechat-weapp-gank  https://github.com/lypeer/wechat-weapp-gank
 
 ### 2、语言 (Language)
 
@@ -239,6 +263,48 @@ GitHub - zaaach/CityPicker: a nice city picker library like meituan app for Andr
 
 GitHub - jeasonlzy/ImagePicker: 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数  https://github.com/jeasonlzy/ImagePicker
 
+GitHub - LarsWerkman/HoloColorPicker: An Android Holo themed colorpicker designed by Marie Schweiz(由Marie Schweiz设计的Android Holo主题色卡)  https://github.com/LarsWerkman/HoloColorPicker
+
+GitHub - QuadFlask/colorpicker: color picker for android(颜色选择器Android)  https://github.com/QuadFlask/colorpicker
+
+GitHub - afollestad/drag-select-recyclerview: Easy to implement Google Photos style multi-selection for RecyclerViews.(轻松实现RecyclerViews的Google相册风格多选。)  https://github.com/afollestad/drag-select-recyclerview
+
+GitHub - liberty2015/3DViewPagerGallery: 用ViewPager写的3D画廊  https://github.com/liberty2015/3DViewPagerGallery
+
+GitHub - hackware1993/MagicIndicator: A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip —— 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等），http://www.jianshu.com/p/f3022211821c  https://github.com/hackware1993/MagicIndicator
+
+GitHub - waynell/VideoListPlayer: Play video in ListView or RecyclerView(在ListView或RecyclerView中播放视频)  https://github.com/waynell/VideoListPlayer
+
+GitHub - iwgang/CountdownView: Android Countdown View(Android倒计时视图)  https://github.com/iwgang/CountdownView
+  
+GitHub - covetcode/EditTextFirework-Demo: (一个绚丽易用的输入框烟花效果，模仿网页360搜索框。)  https://github.com/covetcode/EditTextFirework-Demo
+
+GitHub - HeinrichReimer/material-singleinputform: A single EditText instead of a classical form. Library that implements flavienlaurent's singleinputform(单个EditText而不是经典形式。 实现flavienlaurent的单输入形式的库)  https://github.com/HeinrichReimer/material-singleinputform
+
+GitHub - g707175425/CloudEditText: EditText内容分不同块显示,支持校验,删除块,添加块,得到块代表的字符串集合  https://github.com/g707175425/CloudEditText
+
+GitHub - qinci/AndroidEdit: Android EditText的撤销和恢复（反撤销）  https://github.com/qinci/AndroidEdit
+
+GitHub - yydcdut/RxMarkdown: Markdown for Android, Supports TextView && EditText (Live Preview).(Markdown的Android，支持TextView && EditText（实时预览）)  https://github.com/yydcdut/RxMarkdown
+
+GitHub - FJ917/FJEditTextCount: 栗子——自定义EditText实现右下角计数控件  https://github.com/FJ917/FJEditTextCount
+
+GitHub - woxingxiao/FillBlankView: 基于EditText，仿手机支付宝、微信支付时数字密码输入验证的控件，同时支持文字输入验证  https://github.com/woxingxiao/FillBlankView
+
+GitHub - ta893115871/StickyNavLayout: android－自定义控件－悬浮控件－仿360手机助手应用详情页  https://github.com/ta893115871/StickyNavLayout
+
+GitHub - timehop/sticky-headers-recyclerview: [UNMAINTAINED] Sticky Headers decorator for Android's RecyclerView(Android RecyclerView的粘性标题装饰器)  https://github.com/timehop/sticky-headers-recyclerview
+
+GitHub - daimajia/AndroidSwipeLayout: The Most Powerful Swipe Layout!(最强大的刷卡布局！)  https://github.com/daimajia/AndroidSwipeLayout
+
+GitHub - traex/RippleEffect: Implementation of Ripple effect from Material Design for Android API 9+(从Android API 9+的Material Design中实现Ripple效果)  https://github.com/traex/RippleEffect
+
+GitHub - ozodrukh/CircularReveal: Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+  https://github.com/ozodrukh/CircularReveal
+
+GitHub - XunMengWinter/CircularAnim: Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)  https://github.com/XunMengWinter/CircularAnim
+
+
+
 
 
 ### 4、Linux
@@ -258,6 +324,8 @@ GitHub - hujiaweibujidao/AndroidInterviews: 🐂 Helpful materials for Android I
 GitHub - zhuyaguang/kill-interview-part-2: 中级笔试算法题 剑指offer 数组 排序 数据结构 字符串  https://github.com/zhuyaguang/kill-interview-part-2
 
 GitHub - leerduo/InterviewQuestion: 整理的常见的问题 http://chenfuduo.cn  https://github.com/leerduo/InterviewQuestion
+
+GitHub - jwasham/google-interview-university: A complete computer science study plan to become a software engineer.  https://github.com/jwasham/google-interview-university
 
 
 
@@ -323,6 +391,10 @@ GitHub - dersoncheng/MultipleTheme: Android换肤／夜间模式的Android框架
 
 GitHub - zaaach/CityPicker: a nice city picker library like meituan app for Android(一个很好的城市选择库如meituan的应用程序的Android)  https://github.com/zaaach/CityPicker
 
+GitHub - inloop/svg2android: SVG to Android VectorDrawable XML resource file(SVG到Android的VectorDrawable XML资源文件)  https://github.com/inloop/svg2android
+
+
+
 ### 11、公众号、文章推送
 
 https://github.com/hongyangAndroid/hongyangWeixinArticles
@@ -340,6 +412,8 @@ GitHub - zhujun2730/Android-Learning-Resources: Android学习资源网站索引�
 
 GitHub - LittleFriendsGroup/AndroidSdkSourceAnalysis: android sdk 源码解析——旨在帮助Android开发者更好的学习Android！  https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis
 
+GitHub - mcxiaoke/RxDocs: Rx和RxJava文档中文翻译项目  https://github.com/mcxiaoke/RxDocs
 
+GitHub - lizhangqu/CoreLink: Android 开发中的日常积累  https://github.com/lizhangqu/CoreLink
 
 
