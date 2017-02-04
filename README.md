@@ -374,7 +374,21 @@ GitHub - qibin0506/CardLayoutManager: RecyclerView自定义LayoutManager  https:
 
 GitHub - luckyandyzhang/MentionEditText: MentionEditText adds some useful features for mention string(@xxxx), such as highlight, intelligent deletion, intelligent selection and '@' input detection, etc. (MentionEditText添加了一些有用的功能提到字符串（@xxxx），如突出显示，智能删除，智能选择和'@'输入检测等。) https://github.com/luckyandyzhang/MentionEditText
 
+GitHub - TonicArtos/SuperSLiM: A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs.(RecyclerView的布局管理器具有可互换的线性，网格和交错的视图显示，所有都具有可配置的部分标题，包括材料设计文档中指定的粘性品种。)  https://github.com/TonicArtos/SuperSLiM
 
+GitHub - oubowu/StickyItemDecoration: 强大的RecyclerView粘性头部  https://github.com/oubowu/StickyItemDecoration
+
+GitHub - chrisbanes/PhotoView: Implementation of ImageView for Android that supports zooming, by various touch gestures.  https://github.com/chrisbanes/PhotoView
+
+GitHub - panyiho/NineGridView: 一个九宫格自定义控件，实现类似微信和微博的九宫格图片显示  https://github.com/panyiho/NineGridView
+
+GitHub - HMY314/NineGridLayout: 一个仿微信朋友圈和QQ空间的九宫格图片展示自定义控件。  https://github.com/HMY314/NineGridLayout
+
+GitHub - venmo/tooltip-view: Dead simple Android Tooltip Views(简单的Android Tooltip视图)  https://github.com/venmo/tooltip-view
+
+GitHub - niorgai/StatusBarCompat: Status Bar Utils ---- Change Status Bar Mode Simply(更改状态栏模式)  https://github.com/niorgai/StatusBarCompat
+
+GitHub - Kenber/DoubleStickyHeadersList: An Android library for double level section headers that stick to the top of list.(一个Android库，用于保持列表顶部的双级部分标题)  https://github.com/Kenber/DoubleStickyHeadersList
 
 
 
@@ -483,6 +497,16 @@ GitHub - crazycodeboy/TakePhoto: 一款用于在Android设备上获取照片（�
 GitHub - google/ExoPlayer: An extensible media player for Android(Android的可扩展媒体播放器)  https://github.com/google/ExoPlayer
 
 GitHub - Bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.(Android / iOS视频播放器基于FFmpeg n3.2，支持MediaCodec，VideoToolbox。)  https://github.com/Bilibili/ijkplayer
+
+GitHub - CymChad/BaseRecyclerViewAdapterHelper: Powerful and flexible RecyclerAdapter(强大灵活的RecyclerAdapter),www.recyclerview.org  https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+GitHub - s240875886/ThirdLoginDemo: 微信登陆分享  https://github.com/s240875886/ThirdLoginDemo
+
+GitHub - hongyangAndroid/baseAdapter: Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。  https://github.com/hongyangAndroid/baseAdapter
+
+GitHub - JoanZapata/base-adapter-helper: Abstraction for the usual BaseAdapter "ViewHolder" pattern(通常的BaseAdapter“ViewHolder”模式的抽象)  https://github.com/JoanZapata/base-adapter-helper
+
+
 
 
 
